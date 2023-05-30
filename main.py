@@ -4,7 +4,6 @@ import numpy as np
 import joblib
 
 # Por error se instala con pip install -U scikit-learn
-import sklearn
 from sklearn.ensemble import RandomForestRegressor
 
 # Define la estructura de los datos de entrada
