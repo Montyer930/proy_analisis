@@ -3,6 +3,9 @@ from pydantic import BaseModel
 import numpy as np
 import joblib
 
+# Por error se instala con pip install -U scikit-learn
+import sklearn
+
 # Define la estructura de los datos de entrada
 class PredictionInput(BaseModel):
     Platform: int
