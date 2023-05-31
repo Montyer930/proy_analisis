@@ -15,5 +15,5 @@ starlette==0.22.0
 tomli==2.0.1
 typing_extensions==4.4.0
 joblib==1.1.0
-scikit-learn==1.2.2
+scikit-learn==1.0.2
 uvicorn==0.20.0
